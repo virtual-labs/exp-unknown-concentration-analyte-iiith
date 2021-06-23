@@ -9,6 +9,6 @@
 
 1. Why the accuracy of calibration curve is of absolute importance?
 2. What are steps should be taken to ensure the accuracy of calibration curve?
-3. Draw two calibration plots for two peak positions of K 2 Cr 2 O 7. Which linear fit is better? Find out the correlation coefficients of the two straight lines.
-4. What is difference between the values of unknown concentration determined from two calibration plots of K 2 Cr 2 O 7? Justify your answer.
+3. Draw two calibration plots for two peak positions of K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub>. Which linear fit is better? Find out the correlation coefficients of the two straight lines.
+4. What is difference between the values of unknown concentration determined from two calibration plots of K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub>? Justify your answer.
 
