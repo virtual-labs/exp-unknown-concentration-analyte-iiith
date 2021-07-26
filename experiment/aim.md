@@ -1,1 +1,1 @@
-### Aim of the experiment
+We know that the spectrophotometer is an instrument that separates electromagnetic radiation into its component wavelengths and selectively measures the intensity of radiation after passing through a sample. The quantitative measurement of light absorption as a function of wavelength can not only establish the identity but can also determine the concentration of an absorbing substance in solution. From the Beer-Lambert law we know that more concentrated solution absorbs more of the light.
